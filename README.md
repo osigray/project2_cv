@@ -19,7 +19,7 @@ without refreshing
 #### View Appetizer 
 ___
 
-* [appetizer](https://appetize.io/app/gdlsjpgnxqamjpsr6o4k2wkdze?device=pixel6pro&osVersion=13.0&scale=50)
+* [appetizer](https://appetize.io/app/otg5pye7tfahu3svwdjznimire?device=pixel6pro&osVersion=13.0&scale=75)
 * use pixel 6pro andriod 13.0 to run
 
 
